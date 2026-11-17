@@ -1,0 +1,2 @@
+# AD-Home-Lab
+Building an Active Directory home lab to test implement professional techniques and practices 
